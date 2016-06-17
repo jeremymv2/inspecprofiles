@@ -1,0 +1,2 @@
+# inspecprofiles
+profile inheritance
